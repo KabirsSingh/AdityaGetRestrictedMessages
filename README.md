@@ -24,6 +24,8 @@ AUTHS=719195224 12345678
 ## Deployment
 [![Video Tutorial](https://img.shields.io/youtube/views/uk6kd29C9E8?label=Deploying%20Tutorial)](https://www.youtube.com/watch?v=uk6kd29C9E8)
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%203.svg)](https://www.digitalocean.com/?refcode=7b7d6a915392&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 
 
